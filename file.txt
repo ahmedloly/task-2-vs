@@ -1,0 +1,25 @@
+AHMED MOHAMED ABDELAZEEM 
+
+1 - git init 
+	to start a new project
+2- touch file.txt 
+	to make a file.txt
+3- git add file.txt
+	to add file to the Git
+4- git commit -m "initial commit"
+	to commit changes 
+5- git remote add origin "REPO LINK"
+	to link remote repo
+6- git push origin main
+	to push changes to main branch
+7- git checkout -b "dev" , "test"
+	creating a new branch DEV,TEST
+9- touch devfile.txt , touch testfile.txt
+	to create files of branches "devfile" , "testfile"
+10 - git commit and push for each branch
+	to commit the changes and push them in the hub
+11- git checkout main 
+	to go to the main branch 
+12 - git merge dev , test
+	to merge the branches with the main
+13- 
